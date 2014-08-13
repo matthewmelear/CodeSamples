@@ -1,0 +1,16 @@
+C:\Users\mmelear\newWorkspace\RomanNumeralz\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\mmelear\newWorkspace\RomanNumeralz\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\mmelear\newWorkspace\RomanNumeralz\UnitTestProject1\bin\Debug\RomanNumeralz.exe
+C:\Users\mmelear\newWorkspace\RomanNumeralz\UnitTestProject1\bin\Debug\RomanNumeralz.pdb
+C:\Users\mmelear\newWorkspace\RomanNumeralz\UnitTestProject1\obj\Debug\RomanNumeralzTest.csprojResolveAssemblyReference.cache
+C:\Users\mmelear\newWorkspace\RomanNumeralz\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\mmelear\newWorkspace\RomanNumeralz\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\mmelear\newWorkspace\calc_you_later\ProjectDay2\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\mmelear\newWorkspace\calc_you_later\ProjectDay2\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\mmelear\newWorkspace\calc_you_later\ProjectDay2\UnitTestProject1\bin\Debug\RomanNumeralz.exe
+C:\Users\mmelear\newWorkspace\calc_you_later\ProjectDay2\UnitTestProject1\bin\Debug\RomanNumeralz.pdb
+C:\Users\mmelear\newWorkspace\calc_you_later\ProjectDay2\UnitTestProject1\obj\Debug\RomanNumeralzTest.csprojResolveAssemblyReference.cache
+C:\Users\mmelear\newWorkspace\calc_you_later\ProjectDay2\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\mmelear\newWorkspace\calc_you_later\ProjectDay2\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\mmelear\newWorkspace\calc_you_later\ProjectDay2\UnitTestProject1\bin\Debug\UnitTestProject1.dll.CodeAnalysisLog.xml
+C:\Users\mmelear\newWorkspace\calc_you_later\ProjectDay2\UnitTestProject1\bin\Debug\UnitTestProject1.dll.lastcodeanalysissucceeded

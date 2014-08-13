@@ -1,0 +1,12 @@
+C:\Users\mmelear\newWorkspace\RomanNumeralz\RomanNumeralz\bin\Debug\RomanNumeralz.exe.config
+C:\Users\mmelear\newWorkspace\RomanNumeralz\RomanNumeralz\obj\Debug\RomanNumeralz.csprojResolveAssemblyReference.cache
+C:\Users\mmelear\newWorkspace\RomanNumeralz\RomanNumeralz\bin\Debug\RomanNumeralz.exe
+C:\Users\mmelear\newWorkspace\RomanNumeralz\RomanNumeralz\bin\Debug\RomanNumeralz.pdb
+C:\Users\mmelear\newWorkspace\RomanNumeralz\RomanNumeralz\obj\Debug\RomanNumeralz.exe
+C:\Users\mmelear\newWorkspace\RomanNumeralz\RomanNumeralz\obj\Debug\RomanNumeralz.pdb
+C:\Users\mmelear\newWorkspace\calc_you_later\ProjectDay2\RomanNumeralz\bin\Debug\RomanNumeralz.exe.config
+C:\Users\mmelear\newWorkspace\calc_you_later\ProjectDay2\RomanNumeralz\obj\Debug\RomanNumeralz.exe
+C:\Users\mmelear\newWorkspace\calc_you_later\ProjectDay2\RomanNumeralz\obj\Debug\RomanNumeralz.pdb
+C:\Users\mmelear\newWorkspace\calc_you_later\ProjectDay2\RomanNumeralz\bin\Debug\RomanNumeralz.exe
+C:\Users\mmelear\newWorkspace\calc_you_later\ProjectDay2\RomanNumeralz\bin\Debug\RomanNumeralz.pdb
+C:\Users\mmelear\newWorkspace\calc_you_later\ProjectDay2\RomanNumeralz\obj\Debug\RomanNumeralz.csprojResolveAssemblyReference.cache

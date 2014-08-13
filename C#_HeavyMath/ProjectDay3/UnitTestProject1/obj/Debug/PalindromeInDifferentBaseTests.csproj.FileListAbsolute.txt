@@ -1,0 +1,7 @@
+C:\Users\mmelear\newWorkspace\calc_you_later\ProjectDay3\UnitTestProject1\obj\Debug\PalindromeInDifferentBaseTests.csprojResolveAssemblyReference.cache
+C:\Users\mmelear\newWorkspace\calc_you_later\ProjectDay3\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\mmelear\newWorkspace\calc_you_later\ProjectDay3\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\mmelear\newWorkspace\calc_you_later\ProjectDay3\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\mmelear\newWorkspace\calc_you_later\ProjectDay3\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\mmelear\newWorkspace\calc_you_later\ProjectDay3\UnitTestProject1\bin\Debug\RomanNumeralz.exe
+C:\Users\mmelear\newWorkspace\calc_you_later\ProjectDay3\UnitTestProject1\bin\Debug\RomanNumeralz.pdb

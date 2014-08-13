@@ -1,0 +1,6 @@
+C:\Users\mmelear\newWorkspace\calc_you_later\ProjectDay3\RomanNumeralz\bin\Debug\RomanNumeralz.exe.config
+C:\Users\mmelear\newWorkspace\calc_you_later\ProjectDay3\RomanNumeralz\obj\Debug\RomanNumeralz.exe
+C:\Users\mmelear\newWorkspace\calc_you_later\ProjectDay3\RomanNumeralz\obj\Debug\RomanNumeralz.pdb
+C:\Users\mmelear\newWorkspace\calc_you_later\ProjectDay3\RomanNumeralz\bin\Debug\RomanNumeralz.exe
+C:\Users\mmelear\newWorkspace\calc_you_later\ProjectDay3\RomanNumeralz\bin\Debug\RomanNumeralz.pdb
+C:\Users\mmelear\newWorkspace\calc_you_later\ProjectDay3\RomanNumeralz\obj\Debug\PalindromeInDifferentBases.csprojResolveAssemblyReference.cache
