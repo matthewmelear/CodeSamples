@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Project</title>
+		<link href="yahtzee.css" rel="stylesheet" />
+		<script src="src/jquery.js"></script>
+		<script src="src/Yahtzee.js"></script>
+	</head>
+	<body>
+
+		
+		<div class="topBar">
+			<div class="title"><br>YAHTZEE!</div>
+			<div class="playerTwoSpace" turn="no">
+				<div class="playerTwoName">Cato</div>
+				<div class="playerTwoAvatar"></div>
+			</div>
+			<div class="playerOneSpace" turn="no">
+				<div class="playerOneName">Katniss</div>
+				<div class="playerOneAvatar"></div>
+			</div>
+		</div>
+		
+		<div class = "playSpace"> 
+			
+			<div class="playerHand">
+				<div class="rollResult">
+						<div class="dieRolled1" num="1" lock="off"></div>
+						<div class="dieRolled2" num="2" lock="off"></div>
+						<div class="dieRolled3" num="3" lock="off"></div>
+						<div class="dieRolled4" num="4" lock="off"></div>
+						<div class="dieRolled5" num="5" lock="off"></div>
+						<br>
+						<button class ="rollButton">Roll</button>
+			</div>
+			<br>
+		</div>
+		<div class ="scoreSpace">
+			<br>
+			<div class="scoreBoard"></div>
+			<div id="scoringOptionsLeft"></div>
+			<div id="scoringOptionsRight"></div>
+		</div>
+	</body>
+</html>
