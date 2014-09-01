@@ -1,0 +1,14 @@
+http://fearless1.com
+- Leveraged Foundation HTML Templates and Twitter Bootstrap
+- Hand written HTML, CSS including media queries over the templates
+
+
+http://projectliberty.net
+- Wordpress CMS
+- Ad hoc editing of PHP files to customize plugins and theme
+- Hand written HTML, CSS over the template
+
+http://sproutcreativemedia.com     <---- Hosting another company's site for the time being, am in talks to build their site
+- Wordpress CMS
+- Ad hoc editing of PHP files to customize plugins and theme
+- Hand written HTML, CSS over the template

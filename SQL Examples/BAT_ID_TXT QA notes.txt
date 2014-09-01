@@ -1,0 +1,22 @@
+First you break down Matrices A and B into Tables with the following Schema:
+
+           A                                                       B
+  ----------------------                and              ----------------------
+| row  | column  | value |                             | row  | column  | value |
+
+
+Then you execute the following SQL query to perform Matrix Multiplication:
+
+SELECT A.row, B.column, sum(A.value * B.value)
+FROM A JOIN B ON A.column = B.row
+GROUP BY A.row, B.column
+
+
+The result is also of the form:
+
+           C        
+  ----------------------  
+| row  | column  | value |    
+
+
+Then you can either unpack table C into Matrix C, or leave it there for further analysis.
